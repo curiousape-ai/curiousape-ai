@@ -4,7 +4,7 @@
 ---
 
 First git commit: 22 June 2026. Before that, 10+ years in product management —
-no professional coding background, no repo of my own.
+half a dozen lines of code and never a repo of my own.
 
 What changed isn't that I learned to code. AI coding agents (Claude Code, Grok
 and Codex) turned a decade-plus of product judgement — what to build, in what

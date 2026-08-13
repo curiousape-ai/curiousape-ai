@@ -50,8 +50,27 @@ Software that quietly works for you. Best feeling in building.
 
 ---
 
+## Call-to-action options (append one)
+
+1. If you ever find yourself staring at the garden wondering what to plant or
+   harvest and when — have a play at ourpatch.au. It's free, and I'd genuinely
+   love your feedback.
+
+2. It's live at ourpatch.au and it's free. If you've got a patch (or a few pots
+   on a balcony) and never quite know what to do with it, I'd love you to try
+   it and tell me what's missing.
+
+3. If "what should I actually be doing in the garden this week?" is a question
+   you ask too, ourpatch.au is free — set up your beds once and the plan comes
+   to you. Feedback very welcome, good or brutal.
+
+4. Want your own weekly plan? ourpatch.au — free, takes about ten minutes to
+   set up your beds, and the first email does the rest. I'd love your feedback.
+
+5. (Shortest) Try it on your own garden: ourpatch.au — free, and all feedback
+   welcome.
+
 ## Notes
 
 - Screenshot of the actual email makes a strong attached image (crop to the
   "If you only do one thing" card if a tighter crop is wanted).
-- No link/CTA included since OurPatch isn't public yet — add one if/when it is.

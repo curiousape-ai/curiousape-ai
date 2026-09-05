@@ -1,26 +1,21 @@
-<h1 align="center">Ian Hunt</h1>
-<p align="center">PM turned builder. Shipping AI-assisted products solo.</p>
+# Ian Hunt
 
----
+PM for a decade. Started shipping my own software in June 2026.
 
-First git commit: 22 June 2026. Before that, 10+ years in product management —
-half a dozen lines of code and never a repo of my own.
+First git commit: 22 June 2026. Before that: half a dozen lines of code and never a repo of my own.
 
-What changed isn't that I learned to code. AI coding agents (Claude Code, Grok
-and Codex) turned a decade-plus of product judgement — what to build, in what
-order, what good looks like, what to cut — directly into shipped software. I
-direct the build; the agent writes most of the code. That's the method, not a
-secret, and it's the reason the pace below is real.
+I still don't write the code (obviously), but I feel like everything is possible. 
 
-What's shipped since:
+Shipped since then:
 
-- **[apelabs.au](https://apelabs.au)** — a one-person web studio, live client sites, free AI-visibility tooling (instant score, snapshot review, llms.txt generator)
-- **[learningmap.au](https://learningmap.au)** — Australian education data, live
-- **[howareyoureally.au](https://howareyoureally.au)** — privacy-first mental health check-in, clinician-reviewed; public launch R U OK? Day, 10 September 2026
-- 250+ commits and counting, most weekends, some before 7am
+- [apelabs.au](https://apelabs.au) — one-person studio. Client sites plus free AI-visibility tools (score, snapshot review, llms.txt)
+- [learningmap.au](https://learningmap.au) — Australian curriculum map, live
+- [howareyoureally.au](https://howareyoureally.au) — anonymous mental health check-in. Public launch 10 Sep 2026 (R U OK? Day)
 
-**Stack:** SvelteKit/TypeScript, Astro, static HTML/JS, Python (FastAPI) — deployed on Netlify and Fly. Current focus: AI-visibility (GEO) tooling and agent-driven delivery workflows.
+1000+ commits. Most weekends, early mornings, late nights beyond the day job.
 
-**Building something? I'd genuinely like to hear about it.**
+SvelteKit / TypeScript, Astro, static HTML/JS, Python (FastAPI). Netlify and Fly.
 
-→ [curiousape.au](https://curiousape.au)
+Working on GEO tooling and how far an agent-driven build loop can actually go.
+
+[curiousape.au](https://curiousape.au)
